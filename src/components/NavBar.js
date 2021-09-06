@@ -7,6 +7,7 @@ const NavBar = ()  => {
             <li>Vender</li>
             <li>Nosotros</li>
         </ul>
+        <button></button>
 
     </div>
 }
