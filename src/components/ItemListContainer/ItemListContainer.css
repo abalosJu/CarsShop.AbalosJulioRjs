@@ -1,0 +1,12 @@
+.listContainer{
+    width: 100vh;
+    min-height: 50vh;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}

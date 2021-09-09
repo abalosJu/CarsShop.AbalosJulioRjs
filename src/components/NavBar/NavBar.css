@@ -1,0 +1,18 @@
+ul a{    
+    color: azure;
+    text-decoration: none;    
+}
+
+.NavBar{
+    width: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+ul{
+    width: 80%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
